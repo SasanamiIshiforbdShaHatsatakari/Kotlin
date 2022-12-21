@@ -25,12 +25,7 @@ println("O meu nome que não é da minha história é $noelMeDaUmNome , a minha 
 
 
 
-/**
- * You can edit, run, and share this code.
- * play.kotlinlang.org
- */
-fun main() {
-    // = --> dar valor a algo
+ // = --> dar valor a algo
     //operadores lógicos
     //- --> subtração
     //+ --> adição
