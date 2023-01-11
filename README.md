@@ -338,3 +338,29 @@ var N = 229
  }
 }
 */    
+
+//exercício - faça um programa utilizando 2 variaveis, e mostre no console, os números de 0 até N, //onde N(você decide o valor) é o valor de uma das variáveis
+
+/*var um = 0 
+var N = 229
+
+while(um <= N){ println(um) 
+    um++
+
+  } */
+
+//laço for -para
+//estrutura do for
+//
+//for(i in interválo/collection)
+//{
+//ações
+//}
+
+//Faça uma taboada de u número(que não seja a do 1 e do 0)
+//até o décimomúltiplo usando, o laço for
+for(tabuada in 1..10){
+println(tabuada*5)
+}
+     
+} 
